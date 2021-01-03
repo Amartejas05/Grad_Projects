@@ -1,4 +1,4 @@
- implement a program that computes and prints out the probability of any combination of events given any other combination of events. If the executable is called bnet, here are some example invocations of the program:
+ Implement a program that computes and prints out the probability of any combination of events given any other combination of events. If the executable is called bnet, here are some example invocations of the program:
 
 To print out the probability P(Burglary=true and Alarm=false | MaryCalls=false).
 bnet Bt Af given Mf
